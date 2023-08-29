@@ -2,8 +2,6 @@
 // Project Completed By Iván Luna, August 29, 2023. -
 // For Hyperskill (Jet Brains Academy). Course: Introduction To Java.
 
-package stage5.project;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
